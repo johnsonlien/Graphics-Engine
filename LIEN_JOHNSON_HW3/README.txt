@@ -1,4 +1,4 @@
-Johnson Lien
-3282138724
-jtlien@usc.edu
-Visual Studio Community 2017
+Can now do transformations such as 
+* rotations
+* scaling
+* translations
