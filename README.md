@@ -36,5 +36,5 @@ Similar to Gouraud shading but this time we will be interpolating the normals of
 This enables textures to be applied onto our models by taking in any ppm file.
 
 
-# Homework 6: Antialiasing
+## Homework 6: Antialiasing
 To improve image quality, we perform antialiasing to remove jagged edges from the image. 
